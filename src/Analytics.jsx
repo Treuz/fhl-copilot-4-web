@@ -77,9 +77,7 @@ const Analytics = () => {
             <div style={{
                 gridRow: 'span 2',
                 gridColumn: 'span 3',
-                backgroundColor: 'grey'
             }}>
-
             </div>
         </div>
     );
